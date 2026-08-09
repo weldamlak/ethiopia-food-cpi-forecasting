@@ -1,0 +1,934 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Months Code,Months,Year Code,Year,Unit,Value,Flag,Note
+ETH,2000-01-01,2000-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,15.238649,I,base year is 2015
+ETH,2001-01-01,2001-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,14.102339,X,base year is 2015
+ETH,2002-01-01,2002-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,12.252985,X,base year is 2015
+ETH,2003-01-01,2003-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,15.286231,X,base year is 2015
+ETH,2004-01-01,2004-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,15.743539,X,base year is 2015
+ETH,2005-01-01,2005-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,17.670537,X,base year is 2015
+ETH,2006-01-01,2006-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,20.042745,X,base year is 2015
+ETH,2007-01-01,2007-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,23.612570,X,base year is 2015
+ETH,2008-01-01,2008-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,30.213822,X,base year is 2015
+ETH,2009-01-01,2009-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,43.746062,X,base year is 2015
+ETH,2010-01-01,2010-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,43.939316,X,base year is 2015
+ETH,2011-01-01,2011-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,49.903229,X,base year is 2015
+ETH,2012-01-01,2012-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,71.939279,X,base year is 2015
+ETH,2013-01-01,2013-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,81.079323,X,base year is 2015
+ETH,2014-01-01,2014-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,85.223919,X,base year is 2015
+ETH,2015-01-01,2015-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,91.315374,X,base year is 2015
+ETH,2016-01-01,2016-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,102.647437,X,base year is 2015
+ETH,2017-01-01,2017-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,108.229677,X,base year is 2015
+ETH,2018-01-01,2018-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,125.162112,X,base year is 2015
+ETH,2019-01-01,2019-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,139.536144,X,base year is 2015
+ETH,2020-01-01,2020-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,170.245744,X,base year is 2015
+ETH,2021-01-01,2021-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,209.691342,X,base year is 2015
+ETH,2022-01-01,2022-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,293.353360,X,base year is 2015
+ETH,2023-01-01,2023-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,391.924380,X,base year is 2015
+ETH,2024-01-01,2024-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2024,2024,,518.515954,A,base year is 2015
+ETH,2025-01-01,2025-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2025,2025,,602.810758,I,base year is 2015
+ETH,2026-01-01,2026-01-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2026,2026,,663.680844,I,base year is 2015
+ETH,2000-02-01,2000-02-29,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,15.374892,I,base year is 2015
+ETH,2001-02-01,2001-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,14.061492,X,base year is 2015
+ETH,2002-02-01,2002-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,12.098583,X,base year is 2015
+ETH,2003-02-01,2003-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,15.489510,X,base year is 2015
+ETH,2004-02-01,2004-02-29,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,15.906930,X,base year is 2015
+ETH,2005-02-01,2005-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,17.751339,X,base year is 2015
+ETH,2006-02-01,2006-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,20.245805,X,base year is 2015
+ETH,2007-02-01,2007-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,24.304749,X,base year is 2015
+ETH,2008-02-01,2008-02-29,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,31.638415,X,base year is 2015
+ETH,2009-02-01,2009-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,43.940276,X,base year is 2015
+ETH,2010-02-01,2010-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,43.857561,X,base year is 2015
+ETH,2011-02-01,2011-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,49.460810,X,base year is 2015
+ETH,2012-02-01,2012-02-29,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,73.973791,X,base year is 2015
+ETH,2013-02-01,2013-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,80.873212,X,base year is 2015
+ETH,2014-02-01,2014-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,84.657578,X,base year is 2015
+ETH,2015-02-01,2015-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,92.757833,X,base year is 2015
+ETH,2016-02-01,2016-02-29,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,101.256742,X,base year is 2015
+ETH,2017-02-01,2017-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,109.386884,X,base year is 2015
+ETH,2018-02-01,2018-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,127.327323,X,base year is 2015
+ETH,2019-02-01,2019-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,141.014690,X,base year is 2015
+ETH,2020-02-01,2020-02-29,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,176.476039,X,base year is 2015
+ETH,2021-02-01,2021-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,216.663176,X,base year is 2015
+ETH,2022-02-01,2022-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,307.297030,X,base year is 2015
+ETH,2023-02-01,2023-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,398.252660,X,base year is 2015
+ETH,2024-02-01,2024-02-29,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2024,2024,,524.100501,A,base year is 2015
+ETH,2025-02-01,2025-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2025,2025,,606.026820,I,base year is 2015
+ETH,2026-02-01,2026-02-28,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2026,2026,,666.439942,I,base year is 2015
+ETH,2000-03-01,2000-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,15.829797,I,base year is 2015
+ETH,2001-03-01,2001-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,13.612470,X,base year is 2015
+ETH,2002-03-01,2002-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,12.203790,X,base year is 2015
+ETH,2003-03-01,2003-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,15.849075,X,base year is 2015
+ETH,2004-03-01,2004-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,16.319364,X,base year is 2015
+ETH,2005-03-01,2005-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,18.265003,X,base year is 2015
+ETH,2006-03-01,2006-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,20.481226,X,base year is 2015
+ETH,2007-03-01,2007-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,24.901539,X,base year is 2015
+ETH,2008-03-01,2008-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,34.700468,X,base year is 2015
+ETH,2009-03-01,2009-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,43.900823,X,base year is 2015
+ETH,2010-03-01,2010-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,43.841643,X,base year is 2015
+ETH,2011-03-01,2011-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,55.041342,X,base year is 2015
+ETH,2012-03-01,2012-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,77.650892,X,base year is 2015
+ETH,2013-03-01,2013-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,81.712539,X,base year is 2015
+ETH,2014-03-01,2014-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,86.660497,X,base year is 2015
+ETH,2015-03-01,2015-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,95.409333,X,base year is 2015
+ETH,2016-03-01,2016-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,102.383821,X,base year is 2015
+ETH,2017-03-01,2017-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,113.824677,X,base year is 2015
+ETH,2018-03-01,2018-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,129.362602,X,base year is 2015
+ETH,2019-03-01,2019-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,144.077943,X,base year is 2015
+ETH,2020-03-01,2020-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,182.819551,X,base year is 2015
+ETH,2021-03-01,2021-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,223.527752,X,base year is 2015
+ETH,2022-03-01,2022-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,320.704405,X,base year is 2015
+ETH,2023-03-01,2023-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,426.032741,X,base year is 2015
+ETH,2024-03-01,2024-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2024,2024,,549.582236,A,base year is 2015
+ETH,2025-03-01,2025-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2025,2025,,623.767314,I,base year is 2015
+ETH,2026-03-01,2026-03-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2026,2026,,682.772251,I,base year is 2015
+ETH,2000-04-01,2000-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,16.285853,I,base year is 2015
+ETH,2001-04-01,2001-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,13.251019,X,base year is 2015
+ETH,2002-04-01,2002-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,12.301561,X,base year is 2015
+ETH,2003-04-01,2003-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,16.269162,X,base year is 2015
+ETH,2004-04-01,2004-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,17.001669,X,base year is 2015
+ETH,2005-04-01,2005-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,18.715096,X,base year is 2015
+ETH,2006-04-01,2006-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,20.559338,X,base year is 2015
+ETH,2007-04-01,2007-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,25.436393,X,base year is 2015
+ETH,2008-04-01,2008-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,35.381126,X,base year is 2015
+ETH,2009-04-01,2009-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,44.356885,X,base year is 2015
+ETH,2010-04-01,2010-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,43.989849,X,base year is 2015
+ETH,2011-04-01,2011-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,58.146915,X,base year is 2015
+ETH,2012-04-01,2012-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,80.255098,X,base year is 2015
+ETH,2013-04-01,2013-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,81.502780,X,base year is 2015
+ETH,2014-04-01,2014-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,88.064038,X,base year is 2015
+ETH,2015-04-01,2015-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,97.587834,X,base year is 2015
+ETH,2016-04-01,2016-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,103.667547,X,base year is 2015
+ETH,2017-04-01,2017-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,117.179530,X,base year is 2015
+ETH,2018-04-01,2018-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,130.383601,X,base year is 2015
+ETH,2019-04-01,2019-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,149.260265,X,base year is 2015
+ETH,2020-04-01,2020-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,187.917765,X,base year is 2015
+ETH,2021-04-01,2021-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,229.105220,X,base year is 2015
+ETH,2022-04-01,2022-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,327.354463,X,base year is 2015
+ETH,2023-04-01,2023-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,431.395691,X,base year is 2015
+ETH,2024-04-01,2024-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2024,2024,,547.872527,A,base year is 2015
+ETH,2025-04-01,2025-04-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2025,2025,,624.447542,I,base year is 2015
+ETH,2000-05-01,2000-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,16.057683,I,base year is 2015
+ETH,2001-05-01,2001-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,13.082786,X,base year is 2015
+ETH,2002-05-01,2002-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,12.310530,X,base year is 2015
+ETH,2003-05-01,2003-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,16.338942,X,base year is 2015
+ETH,2004-05-01,2004-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,17.161003,X,base year is 2015
+ETH,2005-05-01,2005-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,18.930469,X,base year is 2015
+ETH,2006-05-01,2006-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,21.455704,X,base year is 2015
+ETH,2007-05-01,2007-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,25.490254,X,base year is 2015
+ETH,2008-05-01,2008-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,39.282164,X,base year is 2015
+ETH,2009-05-01,2009-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,43.845082,X,base year is 2015
+ETH,2010-05-01,2010-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,43.870979,X,base year is 2015
+ETH,2011-05-01,2011-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,61.729833,X,base year is 2015
+ETH,2012-05-01,2012-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,81.120797,X,base year is 2015
+ETH,2013-05-01,2013-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,83.841096,X,base year is 2015
+ETH,2014-05-01,2014-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,89.167635,X,base year is 2015
+ETH,2015-05-01,2015-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,98.204814,X,base year is 2015
+ETH,2016-05-01,2016-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,106.418659,X,base year is 2015
+ETH,2017-05-01,2017-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,117.285940,X,base year is 2015
+ETH,2018-05-01,2018-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,131.187424,X,base year is 2015
+ETH,2019-05-01,2019-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,158.335164,X,base year is 2015
+ETH,2020-05-01,2020-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,190.491981,X,base year is 2015
+ETH,2021-05-01,2021-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,236.077055,X,base year is 2015
+ETH,2022-05-01,2022-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,339.796506,X,base year is 2015
+ETH,2023-05-01,2023-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,436.436864,X,base year is 2015
+ETH,2024-05-01,2024-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2024,2024,,548.164701,A,base year is 2015
+ETH,2025-05-01,2025-05-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2025,2025,,625.832459,I,base year is 2015
+ETH,2000-06-01,2000-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,16.148917,I,base year is 2015
+ETH,2001-06-01,2001-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,12.989155,X,base year is 2015
+ETH,2002-06-01,2002-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,12.700422,X,base year is 2015
+ETH,2003-06-01,2003-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,16.977705,X,base year is 2015
+ETH,2004-06-01,2004-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,17.354200,X,base year is 2015
+ETH,2005-06-01,2005-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,19.783314,X,base year is 2015
+ETH,2006-06-01,2006-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,21.893028,X,base year is 2015
+ETH,2007-06-01,2007-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,25.875162,X,base year is 2015
+ETH,2008-06-01,2008-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,46.127084,X,base year is 2015
+ETH,2009-06-01,2009-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,44.563544,X,base year is 2015
+ETH,2010-06-01,2010-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,44.546418,X,base year is 2015
+ETH,2011-06-01,2011-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,64.715107,X,base year is 2015
+ETH,2012-06-01,2012-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,81.135008,X,base year is 2015
+ETH,2013-06-01,2013-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,84.111775,X,base year is 2015
+ETH,2014-06-01,2014-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,89.351601,X,base year is 2015
+ETH,2015-06-01,2015-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,100.544519,X,base year is 2015
+ETH,2016-06-01,2016-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,107.744094,X,base year is 2015
+ETH,2017-06-01,2017-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,117.816305,X,base year is 2015
+ETH,2018-06-01,2018-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,134.448460,X,base year is 2015
+ETH,2019-06-01,2019-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,161.061758,X,base year is 2015
+ETH,2020-06-01,2020-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,198.214629,X,base year is 2015
+ETH,2021-06-01,2021-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,255.598193,X,base year is 2015
+ETH,2022-06-01,2022-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,352.882104,X,base year is 2015
+ETH,2023-06-01,2023-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,451.560383,X,base year is 2015
+ETH,2024-06-01,2024-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2024,2024,,554.064589,A,base year is 2015
+ETH,2025-06-01,2025-06-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2025,2025,,629.055240,I,base year is 2015
+ETH,2000-07-01,2000-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,16.194551,I,base year is 2015
+ETH,2001-07-01,2001-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,12.516490,X,base year is 2015
+ETH,2002-07-01,2002-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,13.180711,X,base year is 2015
+ETH,2003-07-01,2003-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,17.257318,X,base year is 2015
+ETH,2004-07-01,2004-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,17.450642,X,base year is 2015
+ETH,2005-07-01,2005-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,19.939447,X,base year is 2015
+ETH,2006-07-01,2006-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,22.544836,X,base year is 2015
+ETH,2007-07-01,2007-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,26.683165,X,base year is 2015
+ETH,2008-07-01,2008-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,51.160295,X,base year is 2015
+ETH,2009-07-01,2009-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,44.823168,X,base year is 2015
+ETH,2010-07-01,2010-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,44.128188,X,base year is 2015
+ETH,2011-07-01,2011-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,65.047774,X,base year is 2015
+ETH,2012-07-01,2012-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,81.256217,X,base year is 2015
+ETH,2013-07-01,2013-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,85.979853,X,base year is 2015
+ETH,2014-07-01,2014-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,90.983775,X,base year is 2015
+ETH,2015-07-01,2015-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,103.500206,X,base year is 2015
+ETH,2016-07-01,2016-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,107.695732,X,base year is 2015
+ETH,2017-07-01,2017-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,120.163701,X,base year is 2015
+ETH,2018-07-01,2018-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,136.340163,X,base year is 2015
+ETH,2019-07-01,2019-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,163.632613,X,base year is 2015
+ETH,2020-07-01,2020-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,204.542910,X,base year is 2015
+ETH,2021-07-01,2021-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,269.970899,X,base year is 2015
+ETH,2022-07-01,2022-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,365.967702,X,base year is 2015
+ETH,2023-07-01,2023-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,465.876885,A,base year is 2015
+ETH,2024-07-01,2024-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2024,2024,,561.847523,A,base year is 2015
+ETH,2025-07-01,2025-07-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2025,2025,,638.013439,I,base year is 2015
+ETH,2000-08-01,2000-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,16.057683,I,base year is 2015
+ETH,2001-08-01,2001-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,12.524481,X,base year is 2015
+ETH,2002-08-01,2002-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,13.808501,X,base year is 2015
+ETH,2003-08-01,2003-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,17.582549,X,base year is 2015
+ETH,2004-08-01,2004-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,17.581617,X,base year is 2015
+ETH,2005-08-01,2005-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,20.050973,X,base year is 2015
+ETH,2006-08-01,2006-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,22.865636,X,base year is 2015
+ETH,2007-08-01,2007-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,27.890015,X,base year is 2015
+ETH,2008-08-01,2008-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,51.592774,X,base year is 2015
+ETH,2009-08-01,2009-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,44.992853,X,base year is 2015
+ETH,2010-08-01,2010-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,44.515034,X,base year is 2015
+ETH,2011-08-01,2011-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,66.738703,X,base year is 2015
+ETH,2012-08-01,2012-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,83.537404,X,base year is 2015
+ETH,2013-08-01,2013-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,86.750323,X,base year is 2015
+ETH,2014-08-01,2014-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,91.254606,X,base year is 2015
+ETH,2015-08-01,2015-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,104.695303,X,base year is 2015
+ETH,2016-08-01,2016-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,109.251530,X,base year is 2015
+ETH,2017-08-01,2017-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,120.911651,X,base year is 2015
+ETH,2018-08-01,2018-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,137.462611,X,base year is 2015
+ETH,2019-08-01,2019-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,169.025403,X,base year is 2015
+ETH,2020-08-01,2020-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,206.151795,X,base year is 2015
+ETH,2021-08-01,2021-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,283.592791,X,base year is 2015
+ETH,2022-08-01,2022-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,377.873451,X,base year is 2015
+ETH,2023-08-01,2023-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,478.009915,A,base year is 2015
+ETH,2024-08-01,2024-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2024,2024,,567.875779,A,base year is 2015
+ETH,2025-08-01,2025-08-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2025,2025,,645.682127,I,base year is 2015
+ETH,2000-09-01,2000-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,15.556714,I,base year is 2015
+ETH,2001-09-01,2001-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,12.621745,X,base year is 2015
+ETH,2002-09-01,2002-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,14.235504,X,base year is 2015
+ETH,2003-09-01,2003-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,17.536307,X,base year is 2015
+ETH,2004-09-01,2004-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,17.703066,X,base year is 2015
+ETH,2005-09-01,2005-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,20.428524,X,base year is 2015
+ETH,2006-09-01,2006-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,23.037267,X,base year is 2015
+ETH,2007-09-01,2007-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,28.805807,X,base year is 2015
+ETH,2008-09-01,2008-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,52.122385,X,base year is 2015
+ETH,2009-09-01,2009-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,45.012054,X,base year is 2015
+ETH,2010-09-01,2010-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,45.640492,X,base year is 2015
+ETH,2011-09-01,2011-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,69.037420,X,base year is 2015
+ETH,2012-09-01,2012-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,84.873481,X,base year is 2015
+ETH,2013-09-01,2013-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,88.540676,X,base year is 2015
+ETH,2014-09-01,2014-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,91.905421,X,base year is 2015
+ETH,2015-09-01,2015-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,106.658215,X,base year is 2015
+ETH,2016-09-01,2016-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,113.142077,X,base year is 2015
+ETH,2017-09-01,2017-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,125.401632,X,base year is 2015
+ETH,2018-09-01,2018-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,138.770714,X,base year is 2015
+ETH,2019-09-01,2019-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,171.121547,X,base year is 2015
+ETH,2020-09-01,2020-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,207.438903,X,base year is 2015
+ETH,2021-09-01,2021-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,294.425950,X,base year is 2015
+ETH,2022-09-01,2022-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,385.703358,X,base year is 2015
+ETH,2023-09-01,2023-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,486.371934,A,base year is 2015
+ETH,2024-09-01,2024-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2024,2024,,581.700833,A,base year is 2015
+ETH,2025-09-01,2025-09-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2025,2025,,658.631087,I,base year is 2015
+ETH,2000-10-01,2000-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,15.147880,I,base year is 2015
+ETH,2001-10-01,2001-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,12.618896,X,base year is 2015
+ETH,2002-10-01,2002-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,14.386752,X,base year is 2015
+ETH,2003-10-01,2003-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,17.321908,X,base year is 2015
+ETH,2004-10-01,2004-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,18.019783,X,base year is 2015
+ETH,2005-10-01,2005-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,20.221104,X,base year is 2015
+ETH,2006-10-01,2006-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,23.290606,X,base year is 2015
+ETH,2007-10-01,2007-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,29.377243,X,base year is 2015
+ETH,2008-10-01,2008-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,50.603421,X,base year is 2015
+ETH,2009-10-01,2009-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,44.155697,X,base year is 2015
+ETH,2010-10-01,2010-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,46.558599,X,base year is 2015
+ETH,2011-10-01,2011-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,70.609768,X,base year is 2015
+ETH,2012-10-01,2012-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,82.895988,X,base year is 2015
+ETH,2013-10-01,2013-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,89.349106,X,base year is 2015
+ETH,2014-10-01,2014-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,91.953501,X,base year is 2015
+ETH,2015-10-01,2015-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,106.877721,X,base year is 2015
+ETH,2016-10-01,2016-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,110.526517,X,base year is 2015
+ETH,2017-10-01,2017-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,125.891646,X,base year is 2015
+ETH,2018-10-01,2018-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,137.908799,X,base year is 2015
+ETH,2019-10-01,2019-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,169.893540,X,base year is 2015
+ETH,2020-10-01,2020-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,209.262306,X,base year is 2015
+ETH,2021-10-01,2021-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,294.425950,X,base year is 2015
+ETH,2022-10-01,2022-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,384.738027,X,base year is 2015
+ETH,2023-10-01,2023-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2023,2023,,499.005221,A,base year is 2015
+ETH,2024-10-01,2024-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2024,2024,,594.814223,A,base year is 2015
+ETH,2025-10-01,2025-10-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2025,2025,,672.958202,I,base year is 2015
+ETH,2000-11-01,2000-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,14.785283,I,base year is 2015
+ETH,2001-11-01,2001-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,12.689440,X,base year is 2015
+ETH,2002-11-01,2002-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,14.668164,X,base year is 2015
+ETH,2003-11-01,2003-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,16.805999,X,base year is 2015
+ETH,2004-11-01,2004-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,17.736725,X,base year is 2015
+ETH,2005-11-01,2005-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,20.138282,X,base year is 2015
+ETH,2006-11-01,2006-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,23.421866,X,base year is 2015
+ETH,2007-11-01,2007-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,29.237473,X,base year is 2015
+ETH,2008-11-01,2008-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,47.752701,X,base year is 2015
+ETH,2009-11-01,2009-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,43.910457,X,base year is 2015
+ETH,2010-11-01,2010-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,46.473661,X,base year is 2015
+ETH,2011-11-01,2011-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,69.834494,X,base year is 2015
+ETH,2012-11-01,2012-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,81.856665,X,base year is 2015
+ETH,2013-11-01,2013-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,87.382314,X,base year is 2015
+ETH,2014-11-01,2014-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,91.548579,X,base year is 2015
+ETH,2015-11-01,2015-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,102.035863,X,base year is 2015
+ETH,2016-11-01,2016-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,108.272752,X,base year is 2015
+ETH,2017-11-01,2017-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,125.344242,X,base year is 2015
+ETH,2018-11-01,2018-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,137.036929,X,base year is 2015
+ETH,2019-11-01,2019-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,170.646989,X,base year is 2015
+ETH,2020-11-01,2020-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,208.404234,X,base year is 2015
+ETH,2021-11-01,2021-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,289.492036,X,base year is 2015
+ETH,2022-11-01,2022-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,388.384833,X,base year is 2015
+ETH,2023-11-01,2023-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2023,2023,,504.900282,A,base year is 2015
+ETH,2024-11-01,2024-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2024,2024,,598.306835,A,base year is 2015
+ETH,2025-11-01,2025-11-30,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2025,2025,,662.807622,I,base year is 2015
+ETH,2000-12-01,2000-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,13.433756,X,base year is 2015
+ETH,2001-12-01,2001-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,12.451309,X,base year is 2015
+ETH,2002-12-01,2002-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,14.834821,X,base year is 2015
+ETH,2003-12-01,2003-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,16.129351,X,base year is 2015
+ETH,2004-12-01,2004-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,17.541961,X,base year is 2015
+ETH,2005-12-01,2005-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,20.008892,X,base year is 2015
+ETH,2006-12-01,2006-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,23.622613,X,base year is 2015
+ETH,2007-12-01,2007-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,29.690008,X,base year is 2015
+ETH,2008-12-01,2008-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,43.542189,X,base year is 2015
+ETH,2009-12-01,2009-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,43.825212,X,base year is 2015
+ETH,2010-12-01,2010-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,47.741205,X,base year is 2015
+ETH,2011-12-01,2011-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,70.022810,X,base year is 2015
+ETH,2012-12-01,2012-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,80.692238,X,base year is 2015
+ETH,2013-12-01,2013-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,85.357806,X,base year is 2015
+ETH,2014-12-01,2014-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,90.879630,X,base year is 2015
+ETH,2015-12-01,2015-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,101.888469,X,base year is 2015
+ETH,2016-12-01,2016-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,107.258998,X,base year is 2015
+ETH,2017-12-01,2017-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,123.818599,X,base year is 2015
+ETH,2018-12-01,2018-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,137.970999,X,base year is 2015
+ETH,2019-12-01,2019-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,169.321469,X,base year is 2015
+ETH,2020-12-01,2020-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,205.400982,X,base year is 2015
+ETH,2021-12-01,2021-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,290.886403,X,base year is 2015
+ETH,2022-12-01,2022-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,386.561430,X,base year is 2015
+ETH,2023-12-01,2023-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2023,2023,,504.849227,A,base year is 2015
+ETH,2024-12-01,2024-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2024,2024,,599.256033,A,base year is 2015
+ETH,2025-12-01,2025-12-31,238,'231,Ethiopia,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2025,2025,,659.156620,I,base year is 2015
+ETH,2000-01-01,2000-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,17.740224,X,base year is 2015
+ETH,2001-01-01,2001-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,17.361401,X,base year is 2015
+ETH,2002-01-01,2002-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,16.162635,X,base year is 2015
+ETH,2003-01-01,2003-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,18.150079,X,base year is 2015
+ETH,2004-01-01,2004-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,18.712370,X,base year is 2015
+ETH,2005-01-01,2005-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,20.395563,X,base year is 2015
+ETH,2006-01-01,2006-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,22.355098,X,base year is 2015
+ETH,2007-01-01,2007-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,26.066184,X,base year is 2015
+ETH,2008-01-01,2008-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,31.214718,X,base year is 2015
+ETH,2009-01-01,2009-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,43.006384,X,base year is 2015
+ETH,2010-01-01,2010-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,46.293539,X,base year is 2015
+ETH,2011-01-01,2011-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,54.479616,X,base year is 2015
+ETH,2012-01-01,2012-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,72.984679,X,base year is 2015
+ETH,2013-01-01,2013-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,81.876787,X,base year is 2015
+ETH,2014-01-01,2014-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,87.772592,X,base year is 2015
+ETH,2015-01-01,2015-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,93.975458,X,base year is 2015
+ETH,2016-01-01,2016-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,103.030759,X,base year is 2015
+ETH,2017-01-01,2017-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,109.151934,X,base year is 2015
+ETH,2018-01-01,2018-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,127.323728,X,base year is 2015
+ETH,2019-01-01,2019-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,141.415571,X,base year is 2015
+ETH,2020-01-01,2020-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,167.852863,X,base year is 2015
+ETH,2021-01-01,2021-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,200.202037,X,base year is 2015
+ETH,2022-01-01,2022-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,269.136468,X,base year is 2015
+ETH,2023-01-01,2023-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,360.471884,X,base year is 2015
+ETH,2024-01-01,2024-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2024,2024,,466.532745,X,base year is 2015
+ETH,2025-01-01,2025-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2025,2025,,538.961493,X,base year is 2015
+ETH,2026-01-01,2026-01-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2026,2026,,591.881841,X,base year is 2015
+ETH,2000-02-01,2000-02-29,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,17.925545,X,base year is 2015
+ETH,2001-02-01,2001-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,17.286673,X,base year is 2015
+ETH,2002-02-01,2002-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,16.018608,X,base year is 2015
+ETH,2003-02-01,2003-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,18.324740,X,base year is 2015
+ETH,2004-02-01,2004-02-29,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,18.860786,X,base year is 2015
+ETH,2005-02-01,2005-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,20.505046,X,base year is 2015
+ETH,2006-02-01,2006-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,22.610466,X,base year is 2015
+ETH,2007-02-01,2007-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,26.566837,X,base year is 2015
+ETH,2008-02-01,2008-02-29,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,32.656193,X,base year is 2015
+ETH,2009-02-01,2009-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,43.375426,X,base year is 2015
+ETH,2010-02-01,2010-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,46.453856,X,base year is 2015
+ETH,2011-02-01,2011-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,54.215883,X,base year is 2015
+ETH,2012-02-01,2012-02-29,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,74.464525,X,base year is 2015
+ETH,2013-02-01,2013-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,82.203742,X,base year is 2015
+ETH,2014-02-01,2014-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,88.195066,X,base year is 2015
+ETH,2015-02-01,2015-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,94.978438,X,base year is 2015
+ETH,2016-02-01,2016-02-29,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,102.639182,X,base year is 2015
+ETH,2017-02-01,2017-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,110.202833,X,base year is 2015
+ETH,2018-02-01,2018-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,127.854048,X,base year is 2015
+ETH,2019-02-01,2019-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,141.863465,X,base year is 2015
+ETH,2020-02-01,2020-02-29,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,172.622480,X,base year is 2015
+ETH,2021-02-01,2021-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,208.210118,X,base year is 2015
+ETH,2022-02-01,2022-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,278.118505,X,base year is 2015
+ETH,2023-02-01,2023-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,367.289575,X,base year is 2015
+ETH,2024-02-01,2024-02-29,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2024,2024,,470.987405,X,base year is 2015
+ETH,2025-02-01,2025-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2025,2025,,541.717131,X,base year is 2015
+ETH,2026-02-01,2026-02-28,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2026,2026,,594.246215,X,base year is 2015
+ETH,2000-03-01,2000-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,18.414117,X,base year is 2015
+ETH,2001-03-01,2001-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,16.922502,X,base year is 2015
+ETH,2002-03-01,2002-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,16.123513,X,base year is 2015
+ETH,2003-03-01,2003-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,18.573092,X,base year is 2015
+ETH,2004-03-01,2004-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,19.129365,X,base year is 2015
+ETH,2005-03-01,2005-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,20.834399,X,base year is 2015
+ETH,2006-03-01,2006-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,22.853470,X,base year is 2015
+ETH,2007-03-01,2007-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,27.098721,X,base year is 2015
+ETH,2008-03-01,2008-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,35.107445,X,base year is 2015
+ETH,2009-03-01,2009-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,43.431627,X,base year is 2015
+ETH,2010-03-01,2010-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,46.652287,X,base year is 2015
+ETH,2011-03-01,2011-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,58.317792,X,base year is 2015
+ETH,2012-03-01,2012-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,77.107040,X,base year is 2015
+ETH,2013-03-01,2013-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,82.659883,X,base year is 2015
+ETH,2014-03-01,2014-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,89.568829,X,base year is 2015
+ETH,2015-03-01,2015-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,96.749860,X,base year is 2015
+ETH,2016-03-01,2016-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,103.367617,X,base year is 2015
+ETH,2017-03-01,2017-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,113.010642,X,base year is 2015
+ETH,2018-03-01,2018-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,130.467821,X,base year is 2015
+ETH,2019-03-01,2019-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,144.991632,X,base year is 2015
+ETH,2020-03-01,2020-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,177.739207,X,base year is 2015
+ETH,2021-03-01,2021-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,214.703157,X,base year is 2015
+ETH,2022-03-01,2022-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,289.264889,X,base year is 2015
+ETH,2023-03-01,2023-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,388.283734,X,base year is 2015
+ETH,2024-03-01,2024-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2024,2024,,489.781508,X,base year is 2015
+ETH,2025-03-01,2025-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2025,2025,,556.590511,X,base year is 2015
+ETH,2026-03-01,2026-03-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2026,2026,,607.913872,X,base year is 2015
+ETH,2000-04-01,2000-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,18.852147,X,base year is 2015
+ETH,2001-04-01,2001-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,16.722588,X,base year is 2015
+ETH,2002-04-01,2002-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,16.038467,X,base year is 2015
+ETH,2003-04-01,2003-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,18.825255,X,base year is 2015
+ETH,2004-04-01,2004-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,19.601095,X,base year is 2015
+ETH,2005-04-01,2005-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,21.142652,X,base year is 2015
+ETH,2006-04-01,2006-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,22.894972,X,base year is 2015
+ETH,2007-04-01,2007-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,27.475058,X,base year is 2015
+ETH,2008-04-01,2008-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,35.607877,X,base year is 2015
+ETH,2009-04-01,2009-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,43.954805,X,base year is 2015
+ETH,2010-04-01,2010-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,46.922317,X,base year is 2015
+ETH,2011-04-01,2011-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,60.753709,X,base year is 2015
+ETH,2012-04-01,2012-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,78.664757,X,base year is 2015
+ETH,2013-04-01,2013-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,83.067918,X,base year is 2015
+ETH,2014-04-01,2014-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,90.330369,X,base year is 2015
+ETH,2015-04-01,2015-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,98.263658,X,base year is 2015
+ETH,2016-04-01,2016-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,104.898035,X,base year is 2015
+ETH,2017-04-01,2017-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,114.746696,X,base year is 2015
+ETH,2018-04-01,2018-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,130.762832,X,base year is 2015
+ETH,2019-04-01,2019-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,147.624168,X,base year is 2015
+ETH,2020-04-01,2020-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,181.372224,X,base year is 2015
+ETH,2021-04-01,2021-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,216.434634,X,base year is 2015
+ETH,2022-04-01,2022-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,295.541493,X,base year is 2015
+ETH,2023-04-01,2023-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,394.668556,X,base year is 2015
+ETH,2024-04-01,2024-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2024,2024,,486.504631,X,base year is 2015
+ETH,2025-04-01,2025-04-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2025,2025,,556.867964,X,base year is 2015
+ETH,2000-05-01,2000-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,18.616285,X,base year is 2015
+ETH,2001-05-01,2001-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,16.642718,X,base year is 2015
+ETH,2002-05-01,2002-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,16.081374,X,base year is 2015
+ETH,2003-05-01,2003-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,18.887644,X,base year is 2015
+ETH,2004-05-01,2004-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,19.640532,X,base year is 2015
+ETH,2005-05-01,2005-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,21.207076,X,base year is 2015
+ETH,2006-05-01,2006-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,23.787817,X,base year is 2015
+ETH,2007-05-01,2007-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,27.598637,X,base year is 2015
+ETH,2008-05-01,2008-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,38.395773,X,base year is 2015
+ETH,2009-05-01,2009-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,43.831470,X,base year is 2015
+ETH,2010-05-01,2010-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,47.069175,X,base year is 2015
+ETH,2011-05-01,2011-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,63.402703,X,base year is 2015
+ETH,2012-05-01,2012-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,79.283094,X,base year is 2015
+ETH,2013-05-01,2013-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,84.030940,X,base year is 2015
+ETH,2014-05-01,2014-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,90.999204,X,base year is 2015
+ETH,2015-05-01,2015-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,99.049142,X,base year is 2015
+ETH,2016-05-01,2016-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,106.291152,X,base year is 2015
+ETH,2017-05-01,2017-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,114.949648,X,base year is 2015
+ETH,2018-05-01,2018-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,132.443399,X,base year is 2015
+ETH,2019-05-01,2019-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,153.939430,X,base year is 2015
+ETH,2020-05-01,2020-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,184.510526,X,base year is 2015
+ETH,2021-05-01,2021-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,221.196196,X,base year is 2015
+ETH,2022-05-01,2022-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,303.441358,X,base year is 2015
+ETH,2023-05-01,2023-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,396.832902,X,base year is 2015
+ETH,2024-05-01,2024-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2024,2024,,487.548800,X,base year is 2015
+ETH,2025-05-01,2025-05-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2025,2025,,557.764194,X,base year is 2015
+ETH,2000-06-01,2000-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,18.717369,X,base year is 2015
+ETH,2001-06-01,2001-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,16.573014,X,base year is 2015
+ETH,2002-06-01,2002-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,16.370507,X,base year is 2015
+ETH,2003-06-01,2003-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,19.280100,X,base year is 2015
+ETH,2004-06-01,2004-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,19.739543,X,base year is 2015
+ETH,2005-06-01,2005-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,21.861010,X,base year is 2015
+ETH,2006-06-01,2006-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,24.226341,X,base year is 2015
+ETH,2007-06-01,2007-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,27.885166,X,base year is 2015
+ETH,2008-06-01,2008-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,43.289299,X,base year is 2015
+ETH,2009-06-01,2009-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,44.461082,X,base year is 2015
+ETH,2010-06-01,2010-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,47.716252,X,base year is 2015
+ETH,2011-06-01,2011-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,65.869464,X,base year is 2015
+ETH,2012-06-01,2012-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,79.526006,X,base year is 2015
+ETH,2013-06-01,2013-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,84.545410,X,base year is 2015
+ETH,2014-06-01,2014-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,91.371681,X,base year is 2015
+ETH,2015-06-01,2015-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,100.387580,X,base year is 2015
+ETH,2016-06-01,2016-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,107.361236,X,base year is 2015
+ETH,2017-06-01,2017-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,115.996749,X,base year is 2015
+ETH,2018-06-01,2018-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,135.448437,X,base year is 2015
+ETH,2019-06-01,2019-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,156.116412,X,base year is 2015
+ETH,2020-06-01,2020-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,189.813174,X,base year is 2015
+ETH,2021-06-01,2021-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,236.563056,X,base year is 2015
+ETH,2022-06-01,2022-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,317.076740,X,base year is 2015
+ETH,2023-06-01,2023-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,410.143632,X,base year is 2015
+ETH,2024-06-01,2024-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2024,2024,,491.883336,X,base year is 2015
+ETH,2025-06-01,2025-06-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2025,2025,,560.475802,X,base year is 2015
+ETH,2000-07-01,2000-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,18.767911,X,base year is 2015
+ETH,2001-07-01,2001-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,16.277494,X,base year is 2015
+ETH,2002-07-01,2002-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,16.649076,X,base year is 2015
+ETH,2003-07-01,2003-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,19.510464,X,base year is 2015
+ETH,2004-07-01,2004-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,19.809440,X,base year is 2015
+ETH,2005-07-01,2005-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,22.110639,X,base year is 2015
+ETH,2006-07-01,2006-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,24.905797,X,base year is 2015
+ETH,2007-07-01,2007-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,28.460880,X,base year is 2015
+ETH,2008-07-01,2008-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,46.720232,X,base year is 2015
+ETH,2009-07-01,2009-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,45.007436,X,base year is 2015
+ETH,2010-07-01,2010-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,47.565959,X,base year is 2015
+ETH,2011-07-01,2011-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,66.217927,X,base year is 2015
+ETH,2012-07-01,2012-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,80.259333,X,base year is 2015
+ETH,2013-07-01,2013-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,86.118396,X,base year is 2015
+ETH,2014-07-01,2014-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,91.937241,X,base year is 2015
+ETH,2015-07-01,2015-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,102.194144,X,base year is 2015
+ETH,2016-07-01,2016-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,107.740156,X,base year is 2015
+ETH,2017-07-01,2017-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,118.927771,X,base year is 2015
+ETH,2018-07-01,2018-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,137.107283,X,base year is 2015
+ETH,2019-07-01,2019-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,158.351300,X,base year is 2015
+ETH,2020-07-01,2020-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,193.708998,X,base year is 2015
+ETH,2021-07-01,2021-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,244.895789,X,base year is 2015
+ETH,2022-07-01,2022-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,326.816298,X,base year is 2015
+ETH,2023-07-01,2023-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,420.896710,X,base year is 2015
+ETH,2024-07-01,2024-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2024,2024,,499.187698,X,base year is 2015
+ETH,2025-07-01,2025-07-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2025,2025,,567.843637,X,base year is 2015
+ETH,2000-08-01,2000-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,18.633132,X,base year is 2015
+ETH,2001-08-01,2001-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,16.238477,X,base year is 2015
+ETH,2002-08-01,2002-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,17.175181,X,base year is 2015
+ETH,2003-08-01,2003-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,19.715568,X,base year is 2015
+ETH,2004-08-01,2004-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,19.944810,X,base year is 2015
+ETH,2005-08-01,2005-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,22.234583,X,base year is 2015
+ETH,2006-08-01,2006-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,25.238760,X,base year is 2015
+ETH,2007-08-01,2007-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,29.276157,X,base year is 2015
+ETH,2008-08-01,2008-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,47.327492,X,base year is 2015
+ETH,2009-08-01,2009-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,45.480450,X,base year is 2015
+ETH,2010-08-01,2010-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,47.880138,X,base year is 2015
+ETH,2011-08-01,2011-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,67.339168,X,base year is 2015
+ETH,2012-08-01,2012-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,81.694915,X,base year is 2015
+ETH,2013-08-01,2013-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,86.593515,X,base year is 2015
+ETH,2014-08-01,2014-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,92.521941,X,base year is 2015
+ETH,2015-08-01,2015-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,102.800700,X,base year is 2015
+ETH,2016-08-01,2016-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,108.181789,X,base year is 2015
+ETH,2017-08-01,2017-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,120.423923,X,base year is 2015
+ETH,2018-08-01,2018-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,137.487050,X,base year is 2015
+ETH,2019-08-01,2019-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,162.105052,X,base year is 2015
+ETH,2020-08-01,2020-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,194.574736,X,base year is 2015
+ETH,2021-08-01,2021-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,253.769609,X,base year is 2015
+ETH,2022-08-01,2022-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,336.339422,X,base year is 2015
+ETH,2023-08-01,2023-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,431.125381,X,base year is 2015
+ETH,2024-08-01,2024-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2024,2024,,505.089866,X,base year is 2015
+ETH,2025-08-01,2025-08-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2025,2025,,574.182851,X,base year is 2015
+ETH,2000-09-01,2000-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,18.110865,X,base year is 2015
+ETH,2001-09-01,2001-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,16.493427,X,base year is 2015
+ETH,2002-09-01,2002-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,17.422028,X,base year is 2015
+ETH,2003-09-01,2003-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,19.694229,X,base year is 2015
+ETH,2004-09-01,2004-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,20.129534,X,base year is 2015
+ETH,2005-09-01,2005-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,22.570906,X,base year is 2015
+ETH,2006-09-01,2006-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,25.453278,X,base year is 2015
+ETH,2007-09-01,2007-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,29.948333,X,base year is 2015
+ETH,2008-09-01,2008-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,47.808722,X,base year is 2015
+ETH,2009-09-01,2009-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,45.871837,X,base year is 2015
+ETH,2010-09-01,2010-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,49.317989,X,base year is 2015
+ETH,2011-09-01,2011-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,69.105614,X,base year is 2015
+ETH,2012-09-01,2012-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,83.472849,X,base year is 2015
+ETH,2013-09-01,2013-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,88.801777,X,base year is 2015
+ETH,2014-09-01,2014-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,93.235634,X,base year is 2015
+ETH,2015-09-01,2015-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,104.156870,X,base year is 2015
+ETH,2016-09-01,2016-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,110.543653,X,base year is 2015
+ETH,2017-09-01,2017-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,124.293433,X,base year is 2015
+ETH,2018-09-01,2018-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,139.003380,X,base year is 2015
+ETH,2019-09-01,2019-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,164.867698,X,base year is 2015
+ETH,2020-09-01,2020-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,195.656910,X,base year is 2015
+ETH,2021-09-01,2021-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,263.833819,X,base year is 2015
+ETH,2022-09-01,2022-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,344.780373,X,base year is 2015
+ETH,2023-09-01,2023-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,440.228838,X,base year is 2015
+ETH,2024-09-01,2024-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2024,2024,,517.215801,X,base year is 2015
+ETH,2025-09-01,2025-09-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2025,2025,,585.550125,X,base year is 2015
+ETH,2000-10-01,2000-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,17.672835,X,base year is 2015
+ETH,2001-10-01,2001-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,16.415873,X,base year is 2015
+ETH,2002-10-01,2002-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,17.530790,X,base year is 2015
+ETH,2003-10-01,2003-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,19.595640,X,base year is 2015
+ETH,2004-10-01,2004-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,20.318180,X,base year is 2015
+ETH,2005-10-01,2005-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,22.381193,X,base year is 2015
+ETH,2006-10-01,2006-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,25.634523,X,base year is 2015
+ETH,2007-10-01,2007-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,30.420620,X,base year is 2015
+ETH,2008-10-01,2008-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,47.264973,X,base year is 2015
+ETH,2009-10-01,2009-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,45.529553,X,base year is 2015
+ETH,2010-10-01,2010-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,50.373754,X,base year is 2015
+ETH,2011-10-01,2011-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,70.420246,X,base year is 2015
+ETH,2012-10-01,2012-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,82.611707,X,base year is 2015
+ETH,2013-10-01,2013-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,89.262756,X,base year is 2015
+ETH,2014-10-01,2014-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,93.478841,X,base year is 2015
+ETH,2015-10-01,2015-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,104.186610,X,base year is 2015
+ETH,2016-10-01,2016-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,109.398133,X,base year is 2015
+ETH,2017-10-01,2017-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,123.627957,X,base year is 2015
+ETH,2018-10-01,2018-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,138.641888,X,base year is 2015
+ETH,2019-10-01,2019-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,164.586700,X,base year is 2015
+ETH,2020-10-01,2020-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,196.414431,X,base year is 2015
+ETH,2021-10-01,2021-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,263.833819,X,base year is 2015
+ETH,2022-10-01,2022-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,347.594023,X,base year is 2015
+ETH,2023-10-01,2023-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2023,2023,,449.286787,X,base year is 2015
+ETH,2024-10-01,2024-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2024,2024,,536.047292,X,base year is 2015
+ETH,2025-10-01,2025-10-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2025,2025,,598.282205,X,base year is 2015
+ETH,2000-11-01,2000-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,17.302194,X,base year is 2015
+ETH,2001-11-01,2001-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,16.550644,X,base year is 2015
+ETH,2002-11-01,2002-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,17.678040,X,base year is 2015
+ETH,2003-11-01,2003-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,19.194210,X,base year is 2015
+ETH,2004-11-01,2004-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,20.217772,X,base year is 2015
+ETH,2005-11-01,2005-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,22.352041,X,base year is 2015
+ETH,2006-11-01,2006-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,25.771761,X,base year is 2015
+ETH,2007-11-01,2007-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,30.441683,X,base year is 2015
+ETH,2008-11-01,2008-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,45.466506,X,base year is 2015
+ETH,2009-11-01,2009-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,45.734757,X,base year is 2015
+ETH,2010-11-01,2010-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,50.418680,X,base year is 2015
+ETH,2011-11-01,2011-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,70.234265,X,base year is 2015
+ETH,2012-11-01,2012-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,82.288296,X,base year is 2015
+ETH,2013-11-01,2013-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,88.501969,X,base year is 2015
+ETH,2014-11-01,2014-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,93.189792,X,base year is 2015
+ETH,2015-11-01,2015-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,101.975792,X,base year is 2015
+ETH,2016-11-01,2016-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,108.576192,X,base year is 2015
+ETH,2017-11-01,2017-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,125.657597,X,base year is 2015
+ETH,2018-11-01,2018-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,137.132170,X,base year is 2015
+ETH,2019-11-01,2019-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,165.627386,X,base year is 2015
+ETH,2020-11-01,2020-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,197.171952,X,base year is 2015
+ETH,2021-11-01,2021-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,262.210560,X,base year is 2015
+ETH,2022-11-01,2022-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,354.303497,X,base year is 2015
+ETH,2023-11-01,2023-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2023,2023,,454.827264,X,base year is 2015
+ETH,2024-11-01,2024-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2024,2024,,531.650685,X,base year is 2015
+ETH,2025-11-01,2025-11-30,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2025,2025,,589.969837,X,base year is 2015
+ETH,2000-12-01,2000-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,16.847317,X,base year is 2015
+ETH,2001-12-01,2001-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,16.268597,X,base year is 2015
+ETH,2002-12-01,2002-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,17.851701,X,base year is 2015
+ETH,2003-12-01,2003-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,18.849667,X,base year is 2015
+ETH,2004-12-01,2004-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,20.103653,X,base year is 2015
+ETH,2005-12-01,2005-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,22.161750,X,base year is 2015
+ETH,2006-12-01,2006-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,25.973309,X,base year is 2015
+ETH,2007-12-01,2007-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,30.758527,X,base year is 2015
+ETH,2008-12-01,2008-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,42.836022,X,base year is 2015
+ETH,2009-12-01,2009-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,45.893772,X,base year is 2015
+ETH,2010-12-01,2010-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,52.560368,X,base year is 2015
+ETH,2011-12-01,2011-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,71.459781,X,base year is 2015
+ETH,2012-12-01,2012-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,81.610805,X,base year is 2015
+ETH,2013-12-01,2013-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,87.509296,X,base year is 2015
+ETH,2014-12-01,2014-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,93.205775,X,base year is 2015
+ETH,2015-12-01,2015-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,101.945382,X,base year is 2015
+ETH,2016-12-01,2016-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,108.217317,X,base year is 2015
+ETH,2017-12-01,2017-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,126.077316,X,base year is 2015
+ETH,2018-12-01,2018-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,139.417777,X,base year is 2015
+ETH,2019-12-01,2019-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,166.624565,X,base year is 2015
+ETH,2020-12-01,2020-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,196.955517,X,base year is 2015
+ETH,2021-12-01,2021-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,265.998166,X,base year is 2015
+ETH,2022-12-01,2022-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,355.926756,X,base year is 2015
+ETH,2023-12-01,2023-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2023,2023,,458.142094,X,base year is 2015
+ETH,2024-12-01,2024-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2024,2024,,535.805846,X,base year is 2015
+ETH,2025-12-01,2025-12-31,238,'231,Ethiopia,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2025,2025,,587.907022,X,base year is 2015
+ETH,2001-01-01,2001-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2001,2001,%,-7.456761,E,
+ETH,2002-01-01,2002-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2002,2002,%,-13.113817,E,
+ETH,2003-01-01,2003-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2003,2003,%,24.755169,E,
+ETH,2004-01-01,2004-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2004,2004,%,2.991633,E,
+ETH,2005-01-01,2005-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2005,2005,%,12.239924,E,
+ETH,2006-01-01,2006-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2006,2006,%,13.424653,E,
+ETH,2007-01-01,2007-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2007,2007,%,17.811058,E,
+ETH,2008-01-01,2008-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2008,2008,%,27.956516,E,
+ETH,2009-01-01,2009-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2009,2009,%,44.788242,E,
+ETH,2010-01-01,2010-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2010,2010,%,0.441763,E,
+ETH,2011-01-01,2011-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2011,2011,%,13.573067,E,
+ETH,2012-01-01,2012-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2012,2012,%,44.157566,E,
+ETH,2013-01-01,2013-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2013,2013,%,12.705220,E,
+ETH,2014-01-01,2014-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2014,2014,%,5.111779,E,
+ETH,2015-01-01,2015-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2015,2015,%,7.147589,E,
+ETH,2016-01-01,2016-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2016,2016,%,12.409809,E,
+ETH,2017-01-01,2017-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2017,2017,%,5.438265,E,
+ETH,2018-01-01,2018-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2018,2018,%,15.644909,E,
+ETH,2019-01-01,2019-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2019,2019,%,11.484332,E,
+ETH,2020-01-01,2020-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2020,2020,%,22.008348,E,
+ETH,2021-01-01,2021-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2021,2021,%,23.169800,E,
+ETH,2022-01-01,2022-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2022,2022,%,39.897697,E,
+ETH,2023-01-01,2023-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2023,2023,%,33.601463,E,
+ETH,2024-01-01,2024-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2024,2024,%,32.299999,E,
+ETH,2025-01-01,2025-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2025,2025,%,16.256935,E,
+ETH,2026-01-01,2026-01-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7001,January,2026,2026,%,10.097711,E,
+ETH,2001-02-01,2001-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2001,2001,%,-8.542499,E,
+ETH,2002-02-01,2002-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2002,2002,%,-13.959469,E,
+ETH,2003-02-01,2003-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2003,2003,%,28.027477,E,
+ETH,2004-02-01,2004-02-29,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2004,2004,%,2.694855,E,
+ETH,2005-02-01,2005-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2005,2005,%,11.595003,E,
+ETH,2006-02-01,2006-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2006,2006,%,14.052269,E,
+ETH,2007-02-01,2007-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2007,2007,%,20.048321,E,
+ETH,2008-02-01,2008-02-29,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2008,2008,%,30.173800,E,
+ETH,2009-02-01,2009-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2009,2009,%,38.882671,E,
+ETH,2010-02-01,2010-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2010,2010,%,-0.188244,E,
+ETH,2011-02-01,2011-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2011,2011,%,12.776015,E,
+ETH,2012-02-01,2012-02-29,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2012,2012,%,49.560413,E,
+ETH,2013-02-01,2013-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2013,2013,%,9.326846,E,
+ETH,2014-02-01,2014-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2014,2014,%,4.679381,E,
+ETH,2015-02-01,2015-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2015,2015,%,9.568257,E,
+ETH,2016-02-01,2016-02-29,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2016,2016,%,9.162471,E,
+ETH,2017-02-01,2017-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2017,2017,%,8.029236,E,
+ETH,2018-02-01,2018-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2018,2018,%,16.400904,E,
+ETH,2019-02-01,2019-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2019,2019,%,10.749748,E,
+ETH,2020-02-01,2020-02-29,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2020,2020,%,25.147274,E,
+ETH,2021-02-01,2021-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2021,2021,%,22.772007,E,
+ETH,2022-02-01,2022-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2022,2022,%,41.831684,E,
+ETH,2023-02-01,2023-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2023,2023,%,29.598604,E,
+ETH,2024-02-01,2024-02-29,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2024,2024,%,31.600000,E,
+ETH,2025-02-01,2025-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2025,2025,%,15.631796,E,
+ETH,2026-02-01,2026-02-28,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7002,February,2026,2026,%,9.968721,E,
+ETH,2001-03-01,2001-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2001,2001,%,-14.007301,E,
+ETH,2002-03-01,2002-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2002,2002,%,-10.348453,E,
+ETH,2003-03-01,2003-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2003,2003,%,29.870111,E,
+ETH,2004-03-01,2004-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2004,2004,%,2.967295,E,
+ETH,2005-03-01,2005-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2005,2005,%,11.922271,E,
+ETH,2006-03-01,2006-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2006,2006,%,12.133712,E,
+ETH,2007-03-01,2007-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2007,2007,%,21.582266,E,
+ETH,2008-03-01,2008-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2008,2008,%,39.350697,E,
+ETH,2009-03-01,2009-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2009,2009,%,26.513634,E,
+ETH,2010-03-01,2010-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2010,2010,%,-0.134804,E,
+ETH,2011-03-01,2011-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2011,2011,%,25.545803,E,
+ETH,2012-03-01,2012-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2012,2012,%,41.077396,E,
+ETH,2013-03-01,2013-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2013,2013,%,5.230651,E,
+ETH,2014-03-01,2014-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2014,2014,%,6.055323,E,
+ETH,2015-03-01,2015-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2015,2015,%,10.095530,E,
+ETH,2016-03-01,2016-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2016,2016,%,7.310070,E,
+ETH,2017-03-01,2017-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2017,2017,%,11.174476,E,
+ETH,2018-03-01,2018-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2018,2018,%,13.650753,E,
+ETH,2019-03-01,2019-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2019,2019,%,11.375267,E,
+ETH,2020-03-01,2020-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2020,2020,%,26.889339,E,
+ETH,2021-03-01,2021-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2021,2021,%,22.266874,E,
+ETH,2022-03-01,2022-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2022,2022,%,43.474087,E,
+ETH,2023-03-01,2023-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2023,2023,%,32.842808,E,
+ETH,2024-03-01,2024-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2024,2024,%,29.000000,E,
+ETH,2025-03-01,2025-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2025,2025,%,13.498449,E,
+ETH,2026-03-01,2026-03-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7003,March,2026,2026,%,9.459447,E,
+ETH,2001-04-01,2001-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2001,2001,%,-18.634785,E,
+ETH,2002-04-01,2002-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2002,2002,%,-7.165172,E,
+ETH,2003-04-01,2003-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2003,2003,%,32.252827,E,
+ETH,2004-04-01,2004-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2004,2004,%,4.502424,E,
+ETH,2005-04-01,2005-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2005,2005,%,10.077991,E,
+ETH,2006-04-01,2006-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2006,2006,%,9.854300,E,
+ETH,2007-04-01,2007-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2007,2007,%,23.721853,E,
+ETH,2008-04-01,2008-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2008,2008,%,39.096474,E,
+ETH,2009-04-01,2009-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2009,2009,%,25.368778,E,
+ETH,2010-04-01,2010-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2010,2010,%,-0.827461,E,
+ETH,2011-04-01,2011-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2011,2011,%,32.182575,E,
+ETH,2012-04-01,2012-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2012,2012,%,38.021252,E,
+ETH,2013-04-01,2013-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2013,2013,%,1.554645,E,
+ETH,2014-04-01,2014-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2014,2014,%,8.050349,E,
+ETH,2015-04-01,2015-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2015,2015,%,10.814625,E,
+ETH,2016-04-01,2016-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2016,2016,%,6.229991,E,
+ETH,2017-04-01,2017-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2017,2017,%,13.033957,E,
+ETH,2018-04-01,2018-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2018,2018,%,11.268240,E,
+ETH,2019-04-01,2019-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2019,2019,%,14.477790,E,
+ETH,2020-04-01,2020-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2020,2020,%,25.899391,E,
+ETH,2021-04-01,2021-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2021,2021,%,21.917809,E,
+ETH,2022-04-01,2022-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2022,2022,%,42.883896,E,
+ETH,2023-04-01,2023-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2023,2023,%,31.782438,E,
+ETH,2024-04-01,2024-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2024,2024,%,27.000000,E,
+ETH,2025-04-01,2025-04-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7004,April,2025,2025,%,13.976794,E,
+ETH,2001-05-01,2001-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2001,2001,%,-18.526318,E,
+ETH,2002-05-01,2002-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2002,2002,%,-5.902840,E,
+ETH,2003-05-01,2003-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2003,2003,%,32.723301,E,
+ETH,2004-05-01,2004-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2004,2004,%,5.031299,E,
+ETH,2005-05-01,2005-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2005,2005,%,10.310974,E,
+ETH,2006-05-01,2006-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2006,2006,%,13.339528,E,
+ETH,2007-05-01,2007-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2007,2007,%,18.804090,E,
+ETH,2008-05-01,2008-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2008,2008,%,54.106598,E,
+ETH,2009-05-01,2009-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2009,2009,%,11.615748,E,
+ETH,2010-05-01,2010-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2010,2010,%,0.059064,E,
+ETH,2011-05-01,2011-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2011,2011,%,40.707672,E,
+ETH,2012-05-01,2012-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2012,2012,%,31.412630,E,
+ETH,2013-05-01,2013-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2013,2013,%,3.353393,E,
+ETH,2014-05-01,2014-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2014,2014,%,6.353136,E,
+ETH,2015-05-01,2015-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2015,2015,%,10.135044,E,
+ETH,2016-05-01,2016-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2016,2016,%,8.363994,E,
+ETH,2017-05-01,2017-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2017,2017,%,10.211819,E,
+ETH,2018-05-01,2018-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2018,2018,%,11.852644,E,
+ETH,2019-05-01,2019-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2019,2019,%,20.693859,E,
+ETH,2020-05-01,2020-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2020,2020,%,20.309334,E,
+ETH,2021-05-01,2021-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2021,2021,%,23.930180,E,
+ETH,2022-05-01,2022-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2022,2022,%,43.934574,E,
+ETH,2023-05-01,2023-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2023,2023,%,28.440657,E,
+ETH,2024-05-01,2024-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2024,2024,%,25.600000,E,
+ETH,2025-05-01,2025-05-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7005,May,2025,2025,%,14.168691,E,
+ETH,2001-06-01,2001-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2001,2001,%,-19.566399,E,
+ETH,2002-06-01,2002-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2002,2002,%,-2.222880,E,
+ETH,2003-06-01,2003-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2003,2003,%,33.678276,E,
+ETH,2004-06-01,2004-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2004,2004,%,2.217584,E,
+ETH,2005-06-01,2005-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2005,2005,%,13.997266,E,
+ETH,2006-06-01,2006-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2006,2006,%,10.664108,E,
+ETH,2007-06-01,2007-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2007,2007,%,18.189053,E,
+ETH,2008-06-01,2008-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2008,2008,%,78.267807,E,
+ETH,2009-06-01,2009-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2009,2009,%,-3.389636,E,
+ETH,2010-06-01,2010-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2010,2010,%,-0.038431,E,
+ETH,2011-06-01,2011-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2011,2011,%,45.275669,E,
+ETH,2012-06-01,2012-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2012,2012,%,25.372593,E,
+ETH,2013-06-01,2013-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2013,2013,%,3.668906,E,
+ETH,2014-06-01,2014-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2014,2014,%,6.229599,E,
+ETH,2015-06-01,2015-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2015,2015,%,12.526824,E,
+ETH,2016-06-01,2016-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2016,2016,%,7.160583,E,
+ETH,2017-06-01,2017-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2017,2017,%,9.348272,E,
+ETH,2018-06-01,2018-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2018,2018,%,14.117023,E,
+ETH,2019-06-01,2019-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2019,2019,%,19.794424,E,
+ETH,2020-06-01,2020-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2020,2020,%,23.067469,E,
+ETH,2021-06-01,2021-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2021,2021,%,28.950216,E,
+ETH,2022-06-01,2022-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2022,2022,%,38.061268,E,
+ETH,2023-06-01,2023-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2023,2023,%,27.963526,E,
+ETH,2024-06-01,2024-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2024,2024,%,22.700001,E,
+ETH,2025-06-01,2025-06-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7006,June,2025,2025,%,13.534640,E,
+ETH,2001-07-01,2001-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2001,2001,%,-22.711720,E,
+ETH,2002-07-01,2002-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2002,2002,%,5.306764,E,
+ETH,2003-07-01,2003-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2003,2003,%,30.928587,E,
+ETH,2004-07-01,2004-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2004,2004,%,1.120243,E,
+ETH,2005-07-01,2005-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2005,2005,%,14.261964,E,
+ETH,2006-07-01,2006-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2006,2006,%,13.066510,E,
+ETH,2007-07-01,2007-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2007,2007,%,18.355993,E,
+ETH,2008-07-01,2008-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2008,2008,%,91.732483,E,
+ETH,2009-07-01,2009-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2009,2009,%,-12.386807,E,
+ETH,2010-07-01,2010-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2010,2010,%,-1.550494,E,
+ETH,2011-07-01,2011-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2011,2011,%,47.406403,E,
+ETH,2012-07-01,2012-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2012,2012,%,24.917753,E,
+ETH,2013-07-01,2013-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2013,2013,%,5.813261,E,
+ETH,2014-07-01,2014-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2014,2014,%,5.819877,E,
+ETH,2015-07-01,2015-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2015,2015,%,13.756773,E,
+ETH,2016-07-01,2016-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2016,2016,%,4.053640,E,
+ETH,2017-07-01,2017-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2017,2017,%,11.577032,E,
+ETH,2018-07-01,2018-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2018,2018,%,13.462020,E,
+ETH,2019-07-01,2019-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2019,2019,%,20.017910,E,
+ETH,2020-07-01,2020-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2020,2020,%,25.001310,E,
+ETH,2021-07-01,2021-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2021,2021,%,31.987415,E,
+ETH,2022-07-01,2022-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2022,2022,%,35.558205,E,
+ETH,2023-07-01,2023-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2023,2023,%,27.299999,E,
+ETH,2024-07-01,2024-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2024,2024,%,20.600000,E,
+ETH,2025-07-01,2025-07-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7007,July,2025,2025,%,13.556333,E,
+ETH,2001-08-01,2001-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2001,2001,%,-22.003185,E,
+ETH,2002-08-01,2002-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2002,2002,%,10.252081,E,
+ETH,2003-08-01,2003-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2003,2003,%,27.331339,E,
+ETH,2004-08-01,2004-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2004,2004,%,-0.005304,E,
+ETH,2005-08-01,2005-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2005,2005,%,14.045103,E,
+ETH,2006-08-01,2006-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2006,2006,%,14.037535,E,
+ETH,2007-08-01,2007-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2007,2007,%,21.973495,E,
+ETH,2008-08-01,2008-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2008,2008,%,84.986542,E,
+ETH,2009-08-01,2009-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2009,2009,%,-12.792336,E,
+ETH,2010-08-01,2010-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2010,2010,%,-1.061988,E,
+ETH,2011-08-01,2011-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2011,2011,%,49.923962,E,
+ETH,2012-08-01,2012-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2012,2012,%,25.170853,E,
+ETH,2013-08-01,2013-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2013,2013,%,3.846085,E,
+ETH,2014-08-01,2014-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2014,2014,%,5.192237,E,
+ETH,2015-08-01,2015-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2015,2015,%,14.728787,E,
+ETH,2016-08-01,2016-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2016,2016,%,4.351892,E,
+ETH,2017-08-01,2017-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2017,2017,%,10.672730,E,
+ETH,2018-08-01,2018-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2018,2018,%,13.688474,E,
+ETH,2019-08-01,2019-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2019,2019,%,22.961002,E,
+ETH,2020-08-01,2020-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2020,2020,%,21.964977,E,
+ETH,2021-08-01,2021-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2021,2021,%,37.565037,E,
+ETH,2022-08-01,2022-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2022,2022,%,33.245083,E,
+ETH,2023-08-01,2023-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2023,2023,%,26.500000,E,
+ETH,2024-08-01,2024-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2024,2024,%,18.799999,E,
+ETH,2025-08-01,2025-08-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7008,August,2025,2025,%,13.701297,E,
+ETH,2001-09-01,2001-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2001,2001,%,-18.866251,E,
+ETH,2002-09-01,2002-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2002,2002,%,12.785543,E,
+ETH,2003-09-01,2003-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2003,2003,%,23.187111,E,
+ETH,2004-09-01,2004-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2004,2004,%,0.950938,E,
+ETH,2005-09-01,2005-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2005,2005,%,15.395400,E,
+ETH,2006-09-01,2006-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2006,2006,%,12.770103,E,
+ETH,2007-09-01,2007-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2007,2007,%,25.040037,E,
+ETH,2008-09-01,2008-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2008,2008,%,80.944016,E,
+ETH,2009-09-01,2009-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2009,2009,%,-13.641606,E,
+ETH,2010-09-01,2010-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2010,2010,%,1.396153,E,
+ETH,2011-09-01,2011-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2011,2011,%,51.263531,E,
+ETH,2012-09-01,2012-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2012,2012,%,22.938374,E,
+ETH,2013-09-01,2013-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2013,2013,%,4.320779,E,
+ETH,2014-09-01,2014-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2014,2014,%,3.800225,E,
+ETH,2015-09-01,2015-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2015,2015,%,16.052147,E,
+ETH,2016-09-01,2016-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2016,2016,%,6.079102,E,
+ETH,2017-09-01,2017-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2017,2017,%,10.835540,E,
+ETH,2018-09-01,2018-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2018,2018,%,10.661011,E,
+ETH,2019-09-01,2019-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2019,2019,%,23.312435,E,
+ETH,2020-09-01,2020-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2020,2020,%,21.223135,E,
+ETH,2021-09-01,2021-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2021,2021,%,41.933815,E,
+ETH,2022-09-01,2022-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2022,2022,%,31.001822,E,
+ETH,2023-09-01,2023-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2023,2023,%,26.100000,E,
+ETH,2024-09-01,2024-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2024,2024,%,19.600000,E,
+ETH,2025-09-01,2025-09-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7009,September,2025,2025,%,13.225055,E,
+ETH,2001-10-01,2001-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2001,2001,%,-16.695297,E,
+ETH,2002-10-01,2002-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2002,2002,%,14.009589,E,
+ETH,2003-10-01,2003-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2003,2003,%,20.401798,E,
+ETH,2004-10-01,2004-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2004,2004,%,4.028861,E,
+ETH,2005-10-01,2005-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2005,2005,%,12.216130,E,
+ETH,2006-10-01,2006-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2006,2006,%,15.179695,E,
+ETH,2007-10-01,2007-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2007,2007,%,26.133446,E,
+ETH,2008-10-01,2008-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2008,2008,%,72.253807,E,
+ETH,2009-10-01,2009-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2009,2009,%,-12.741676,E,
+ETH,2010-10-01,2010-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2010,2010,%,5.441885,E,
+ETH,2011-10-01,2011-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2011,2011,%,51.657845,E,
+ETH,2012-10-01,2012-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2012,2012,%,17.400171,E,
+ETH,2013-10-01,2013-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2013,2013,%,7.784596,E,
+ETH,2014-10-01,2014-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2014,2014,%,2.914853,E,
+ETH,2015-10-01,2015-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2015,2015,%,16.230181,E,
+ETH,2016-10-01,2016-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2016,2016,%,3.413991,E,
+ETH,2017-10-01,2017-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2017,2017,%,13.901758,E,
+ETH,2018-10-01,2018-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2018,2018,%,9.545631,E,
+ETH,2019-10-01,2019-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2019,2019,%,23.192677,E,
+ETH,2020-10-01,2020-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2020,2020,%,23.172609,E,
+ETH,2021-10-01,2021-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2021,2021,%,40.697079,E,
+ETH,2022-10-01,2022-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2022,2022,%,30.673952,E,
+ETH,2023-10-01,2023-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2023,2023,%,29.700001,E,
+ETH,2024-10-01,2024-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2024,2024,%,19.200001,E,
+ETH,2025-10-01,2025-10-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7010,October,2025,2025,%,13.137544,E,
+ETH,2001-11-01,2001-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2001,2001,%,-14.175200,E,
+ETH,2002-11-01,2002-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2002,2002,%,15.593476,E,
+ETH,2003-11-01,2003-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2003,2003,%,14.574658,E,
+ETH,2004-11-01,2004-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2004,2004,%,5.538058,E,
+ETH,2005-11-01,2005-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2005,2005,%,13.540023,E,
+ETH,2006-11-01,2006-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2006,2006,%,16.305187,E,
+ETH,2007-11-01,2007-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2007,2007,%,24.829817,E,
+ETH,2008-11-01,2008-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2008,2008,%,63.327045,E,
+ETH,2009-11-01,2009-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2009,2009,%,-8.046127,E,
+ETH,2010-11-01,2010-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2010,2010,%,5.837341,E,
+ETH,2011-11-01,2011-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2011,2011,%,50.266827,E,
+ETH,2012-11-01,2012-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2012,2012,%,17.215233,E,
+ETH,2013-11-01,2013-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2013,2013,%,6.750395,E,
+ETH,2014-11-01,2014-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2014,2014,%,4.767859,E,
+ETH,2015-11-01,2015-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2015,2015,%,11.455431,E,
+ETH,2016-11-01,2016-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2016,2016,%,6.112447,E,
+ETH,2017-11-01,2017-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2017,2017,%,15.767117,E,
+ETH,2018-11-01,2018-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2018,2018,%,9.328459,E,
+ETH,2019-11-01,2019-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2019,2019,%,24.526279,E,
+ETH,2020-11-01,2020-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2020,2020,%,22.125937,E,
+ETH,2021-11-01,2021-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2021,2021,%,38.908905,E,
+ETH,2022-11-01,2022-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2022,2022,%,34.160801,E,
+ETH,2023-11-01,2023-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2023,2023,%,30.000000,E,
+ETH,2024-11-01,2024-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2024,2024,%,18.500000,E,
+ETH,2025-11-01,2025-11-30,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7011,November,2025,2025,%,10.780553,E,
+ETH,2001-12-01,2001-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2001,2001,%,-7.313272,E,
+ETH,2002-12-01,2002-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2002,2002,%,19.142664,E,
+ETH,2003-12-01,2003-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2003,2003,%,8.726296,E,
+ETH,2004-12-01,2004-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2004,2004,%,8.758006,E,
+ETH,2005-12-01,2005-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2005,2005,%,14.063029,E,
+ETH,2006-12-01,2006-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2006,2006,%,18.060575,E,
+ETH,2007-12-01,2007-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2007,2007,%,25.684690,E,
+ETH,2008-12-01,2008-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2008,2008,%,46.656036,E,
+ETH,2009-12-01,2009-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2009,2009,%,0.649998,E,
+ETH,2010-12-01,2010-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2010,2010,%,8.935480,E,
+ETH,2011-12-01,2011-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2011,2011,%,46.671642,E,
+ETH,2012-12-01,2012-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2012,2012,%,15.237073,E,
+ETH,2013-12-01,2013-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2013,2013,%,5.781929,E,
+ETH,2014-12-01,2014-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2014,2014,%,6.469032,E,
+ETH,2015-12-01,2015-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2015,2015,%,12.113648,E,
+ETH,2016-12-01,2016-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2016,2016,%,5.270988,E,
+ETH,2017-12-01,2017-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2017,2017,%,15.438892,E,
+ETH,2018-12-01,2018-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2018,2018,%,11.429947,E,
+ETH,2019-12-01,2019-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2019,2019,%,22.722507,E,
+ETH,2020-12-01,2020-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2020,2020,%,21.308292,E,
+ETH,2021-12-01,2021-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2021,2021,%,41.618797,E,
+ETH,2022-12-01,2022-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2022,2022,%,32.890854,E,
+ETH,2023-12-01,2023-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2023,2023,%,30.600000,E,
+ETH,2024-12-01,2024-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2024,2024,%,18.700001,E,
+ETH,2025-12-01,2025-12-31,238,'231,Ethiopia,23014,Food price inflation,6121,Value,7012,December,2025,2025,%,9.995826,E,
